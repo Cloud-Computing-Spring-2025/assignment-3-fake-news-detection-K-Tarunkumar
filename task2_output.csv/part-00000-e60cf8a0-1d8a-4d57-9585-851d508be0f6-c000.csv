@@ -1,0 +1,6 @@
+id,title,filtered_words_str,label
+R129,New Report on Election,"challenge, keep, run, training, real., including, expert, song, win., experts, discuss, ongoing, developments, election.",REAL
+R227,New Report on Climate Change,"rather, wonder, say, community, space, worry., result, specific, difficult, similar, doctor., experts, discuss, ongoing, developments, climate, change.",REAL
+F231,Aliens Confirmed by Sources,"contain, popular, less, article, rock, surface., —, shocking, claims, aliens, surface, internet.",FAKE
+R066,New Report on Policy,"step, bill, reach, travel, good, opportunity, great., accept, western, region, election, analysis, rise, speak, hold., general, cell, reality, husband, wife, impact, town, region., experts, discuss, ongoing, developments, policy.",REAL
+F095,Mind Control Confirmed by Sources,"quality, media, environmental, whole., star, kind, teach, style., point, decide, share, important, fire, health., —, shocking, claims, mind, control, surface, internet.",FAKE
