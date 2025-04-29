@@ -55,8 +55,8 @@ spark-submit fake_news_classification.py
 ### Task 5 Output Example
 ```
 Metric,Value
-Accuracy,0.89
-F1 Score,0.88
+Accuracy,1
+F1 Score,1
 ```
 
 ## Notes
